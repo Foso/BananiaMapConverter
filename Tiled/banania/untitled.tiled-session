@@ -1,0 +1,474 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level13.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "banania.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level0.tmx": {
+            "scale": 2.2790865384615384,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.09956755616497,
+                "y": 208.41683366733466
+            }
+        },
+        "level1.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 335.02834008097165,
+                "y": 166.34817813765184
+            }
+        },
+        "level10.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 335.417004048583,
+                "y": 207.93522267206475
+            }
+        },
+        "level11.js": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 335.8056680161943,
+                "y": 208.32388663967612
+            }
+        },
+        "level11.tmj": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level11.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 335.8056680161943,
+                "y": 208.32388663967612
+            }
+        },
+        "level13.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level15.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level17.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.582995951417,
+                "y": 208.32388663967612
+            }
+        },
+        "level18.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.582995951417,
+                "y": 208.32388663967612
+            }
+        },
+        "level19.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level2.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 335.8056680161943,
+                "y": 207.54655870445345
+            }
+        },
+        "level20.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level21.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.582995951417,
+                "y": 208.32388663967612
+            }
+        },
+        "level22.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.582995951417,
+                "y": 208.32388663967612
+            }
+        },
+        "level23.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.582995951417,
+                "y": 208.32388663967612
+            }
+        },
+        "level24.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.582995951417,
+                "y": 208.32388663967612
+            }
+        },
+        "level25.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.582995951417,
+                "y": 208.32388663967612
+            }
+        },
+        "level26.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.582995951417,
+                "y": 208.32388663967612
+            }
+        },
+        "level27.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level28.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level29.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.582995951417,
+                "y": 208.32388663967612
+            }
+        },
+        "level3.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level30.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.582995951417,
+                "y": 208.32388663967612
+            }
+        },
+        "level31.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level32.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level34.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level35.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.582995951417,
+                "y": 208.32388663967612
+            }
+        },
+        "level36.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.582995951417,
+                "y": 208.32388663967612
+            }
+        },
+        "level37.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level38.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.582995951417,
+                "y": 208.32388663967612
+            }
+        },
+        "level39.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level4.json": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level4.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 335.8056680161943,
+                "y": 207.93522267206475
+            }
+        },
+        "level40.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.582995951417,
+                "y": 208.32388663967612
+            }
+        },
+        "level41.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level42.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level43.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level44.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level45.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level46.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level47.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level48.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level49.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level5.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level50.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level6.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level7.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level8.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        },
+        "level9.tmx": {
+            "scale": 2.5729166666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 336.19433198380574,
+                "y": 208.32388663967612
+            }
+        }
+    },
+    "last.exportedFilePath": "/home/jens/Code/2022/Tiled/banania",
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "js",
+    "openFiles": [
+        "level0.tmx",
+        "level35.tmx",
+        "level38.tmx",
+        "level24.tmx",
+        "level36.tmx",
+        "level22.tmx",
+        "level18.tmx",
+        "level21.tmx",
+        "level23.tmx",
+        "level25.tmx",
+        "level26.tmx",
+        "level28.tmx",
+        "level19.tmx",
+        "level17.tmx",
+        "level20.tmx",
+        "level2.tmx",
+        "level30.tmx",
+        "level34.tmx",
+        "level42.tmx",
+        "level4.tmx",
+        "level40.tmx",
+        "level41.tmx",
+        "level43.tmx",
+        "level44.tmx",
+        "level45.tmx",
+        "level46.tmx",
+        "level47.tmx",
+        "level48.tmx",
+        "level49.tmx",
+        "level5.tmx",
+        "level50.tmx",
+        "level6.tmx",
+        "level7.tmx",
+        "level8.tmx",
+        "level9.tmx",
+        "level29.tmx",
+        "level13.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "level0.tmx",
+        "level35.tmx",
+        "level38.tmx",
+        "level24.tmx",
+        "level36.tmx",
+        "level22.tmx",
+        "level18.tmx",
+        "level21.tmx",
+        "level23.tmx",
+        "level25.tmx",
+        "level26.tmx",
+        "level28.tmx"
+    ]
+}
