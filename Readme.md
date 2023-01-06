@@ -9,3 +9,7 @@ Tiled map files and converter for the game Banania https://github.com/BenjaminRi
 <p align="center">
   <img src ="https://raw.githubusercontent.com/Foso/BananiaMapConverter/master/docs/bananiatiled.png"  />
 </p>
+
+## 👷 Project Structure
+* <kbd>tiled</kbd> - Tiled Map files for Banania
+* <kbd>src/main/kotlin</kbd> - Converter functions
