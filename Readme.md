@@ -5,7 +5,7 @@
 
 Tiled map files and converter for the game Banania https://github.com/BenjaminRi/Banania
 
-**convertToTiledMapFiles()** parses to js array and converts it to .tmx files
+**convertToTiledMapFiles()** parses the js array (https://github.com/BenjaminRi/Banania/blob/master/game/level/level.js) and converts it to .tmx files
 
 **convertTiledMapToJs** parses .tmx files and converts it to a level array
 
