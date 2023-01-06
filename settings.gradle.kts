@@ -1,3 +1,3 @@
 
-rootProject.name = "BananiaTiledMap"
+rootProject.name = "BananiaMapConverter"
 

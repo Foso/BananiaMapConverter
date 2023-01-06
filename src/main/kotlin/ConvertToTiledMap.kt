@@ -2,19 +2,29 @@ import java.io.File
 
 
 fun main() {
-    val level = File("/home/jens/Code/2022/Banania/game/level/level.js").readLines()
-    val lev = level.filter { it.contains("EXTERNAL_LEVELS") }.map {
-        val text=  it.substringAfter("(").substringBefore(")")
-        text.ifEmpty {
+    convertToTiledMapFiles()
+}
+
+/**
+ * Remember to configure the [levelJsPath] and [outputFolder]
+ */
+fun convertToTiledMapFiles(){
+    val levelWidth = 21
+    val levelHeight = 13
+    val levelJsPath = "/home/jens/Code/2023/jk/Banania/game/level/level.js"
+    val outputFolder = "/home/jens/Code/2023/jk/BananiaMapEditor/Tiled/banania/"
+
+
+    val levelJsLines = File(levelJsPath).readLines()
+    val cleanedLevelJsLines = levelJsLines.filter { it.contains("EXTERNAL_LEVELS") }.map {
+        it.substringAfter("(").substringBefore(")").ifEmpty {
             ""
         }
-        text
     }.filter { it.isNotEmpty() }
 
+    val levelArrays = cleanedLevelJsLines.map { it.split(",") }.chunked(levelWidth)
 
-    val newL = lev.map { it.split(",") }.chunked(21)
-
-    val template = """<?xml version="1.0" encoding="UTF-8"?>
+    val tmxTemplate = """<?xml version="1.0" encoding="UTF-8"?>
 <map version="1.9" tiledversion="1.9.1" orientation="orthogonal" renderorder="right-down" width="21" height="13" tilewidth="32" tileheight="32" infinite="0" nextlayerid="2" nextobjectid="1">
  <tileset firstgid="1" source="banania.tsx"/>
  <layer id="1" name="Tile Layer 1" width="21" height="13">
@@ -24,21 +34,13 @@ DATA
  </layer>
 </map>"""
 
-
-
-    newL.forEachIndexed { index, lists ->
-
-        val data = (0..12).joinToString { i->
-
-            val test2 = lists.joinToString { it[i].toString() }
-            test2+"\n"
-
+    levelArrays.forEachIndexed { index, levelData ->
+        val data = (0 until levelHeight).joinToString { i ->
+            levelData.joinToString { it[i] } + "\n"
         }
 
-        val text= template.replace("DATA",data)
+        val tmxSource = tmxTemplate.replace("DATA", data)
 
-        File("/home/jens/Code/2022/Tiled/level$index.tmx").writeText(text)
-
+        File(outputFolder + "level$index.tmx").writeText(tmxSource)
     }
-
 }
